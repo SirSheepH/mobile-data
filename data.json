@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "title": "Новина 1",
+    "date": "21.03.24"
+    "description": "Опис новини 1",
+    "image": "imgs/img_1.png"
+  },
+  {
+    "id": 2,
+    "title": "Новина 2",
+    "date": "22.03.24"
+    "description": "Опис новини 2",
+    "image": "imgs/img_2.png"
+  },
+  {
+    "id": 3,
+    "title": "Новина 3",
+    "date": "23.03.24"
+    "description": "Опис новини 3",
+    "image": "imgs/img_3.png"
+  },
+  {
+    "id": 4,
+    "title": "Новина 4",
+    "date": "24.03.24"
+    "description": "Опис новини 4",
+    "image": "imgs/img_4.png"
+  },
+  {
+    "id": 5,
+    "title": "Новина 5",
+    "date": "25.03.24"
+    "description": "Опис новини 5",
+    "image": "imgs/img_5.png"
+  },
+  {
+    "id": 6,
+    "title": "Новина 6",
+    "date": "26.03.24"
+    "description": "Опис новини 6",
+    "image": "imgs/img_6.png"
+  },
+  {
+    "id": 7,
+    "title": "Новина 7",
+    "date": "27.03.24"
+    "description": "Опис новини 7",
+    "image": "imgs/img_7.png"
+  },
+  {
+    "id": 8,
+    "title": "Новина 8",
+    "date": "28.03.24"
+    "description": "Опис новини 8",
+    "image": "imgs/img_8.png"
+  },
+  {
+    "id": 9,
+    "title": "Новина 9",
+    "date": "29.03.24"
+    "description": "Опис новини 9",
+    "image": "imgs/img_9.png"
+  },
+  {
+    "id": 10,
+    "title": "Новина 10",
+    "date": "30.03.24"
+    "description": "Опис новини 10",
+    "image": "imgs/img_10.png"
+  },
+    {
+    "id": 11,
+    "title": "Новина 11",
+    "date": "31.03.24"
+    "description": "Опис новини 11",
+    "image": "imgs/img_11.png"
+  },
+    {
+    "id": 12,
+    "title": "Новина 12",
+    "date": "01.04.24"
+    "description": "Опис новини 12",
+    "image": "imgs/img_12.png"
+  },
+  {
+    "id": 13,
+    "title": "Новина 13",
+    "date": "02.04.24"
+    "description": "Опис новини 13",
+    "image": "imgs/img_13.png"
+  },
+  {
+    "id": 14,
+    "title": "Новина 14",
+    "date": "03.04.24"
+    "description": "Опис новини 14",
+    "image": "imgs/img_14.png"
+  },
+]
